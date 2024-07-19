@@ -1,2 +1,2 @@
-# Landing Page de proyecto Mulching Regenerativo
-Landing Page Mulching Regenerativo
+# Mulching Regenerativo
+Somos un proyecto de emprendimiento joven que busca regenerar el campo con prácticas agrícolas sostenibles creando un nuevo ciclo económico para los agricultores que les aporte otros ingresos y crear un campo resiliente. Así pues, desarrollamos un servicio de asesoría e implementación del mulching regenerativo en distintos ambientes agroecológicos mediante el aprovechamiento y empleo de restos agrícolas y de poda, que al aplicarlos sobre el suelo, tenga como consecuencia la obtención de beneficios sobre la salud del suelo.
